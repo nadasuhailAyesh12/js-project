@@ -1,0 +1,35 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+  }
+  
+  button {
+    background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+ flex-direction: row;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 50%;
+  margin: 4px 2px
+  
+  }
+  h2{
+text-align: center;
+align-self: center;
+  }
+  h1{
+    text-align: center;
+      }
+      #playerchoices{
+        text-align: center;
+        align-content: center;
+      }
+      #replay{
+        align-content: center;
+      }
+
+  
+  
